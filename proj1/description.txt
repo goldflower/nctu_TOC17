@@ -1,0 +1,1 @@
+Please use the framework from project 1. As announced in class, the grade you will receive is the win rate of your program. A game is counted as a "win" if your program is able to reach the 610 tile.
